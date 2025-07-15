@@ -8,6 +8,12 @@ To reduce losses from RTOs (Return to Origin) and Returns by identifying revenue
 - DAX
 - Excel (for preprocessing)
 
+## 📷 Dashboard Preview
+
+### 🔹 Default View 
+
+![Dashboard Screenshot](dashboard.png)
+
 ## 📌 Key KPIs
 - Total Orders: 132  
 - Total Revenue: ₹179K  
